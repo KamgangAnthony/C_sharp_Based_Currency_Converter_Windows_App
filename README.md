@@ -1,6 +1,9 @@
 # C#_Based_Currency_Converter_Windows_App
 A simple currency converter app for windows built using c#
 
+![our_app_image](https://github.com/KamgangAnthony/C_sharp_Based_Currency_Converter_Windows_App/assets/50509053/0f91417d-dc04-4b4b-8650-f6d90d4733f4)
+
+
 ### Overview
 
 This is a C# Currency Converter application using WPF (Windows Presentation Foundation) with static data, developed in Visual Studio. The application allows users to convert one currency to another based on the static exchange rates provided.
